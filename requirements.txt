@@ -1,0 +1,4 @@
+pyTelegramBotAPI>=4.15.4
+psycopg2-binary>=2.9.9
+flake8>=7.0.0
+python-dotenv>=1.0.1 
